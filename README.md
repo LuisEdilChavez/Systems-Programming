@@ -1,0 +1,1 @@
+This repository is a collection of the in class mini-lab assignments, completed using C and Vim inside Linux Ubuntu. It ranges from basic operations to involving malloc, adding removing and editing nodes in a Linked List and much more.
